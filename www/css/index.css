@@ -1,0 +1,27 @@
+#calcul input{
+    width: 90px;
+   
+}
+#form{
+    margin-top: 25%;
+}
+
+#form input, select{
+     font-size: 19px;
+}
+
+#form span{
+     font-size: 19px;
+}
+
+#form button{
+     font-size: 19px;
+     display: block;
+     margin-top: 10%;
+     margin-left: 35%;
+}
+
+
+body{
+    background-color: rgba(152, 215, 251, 0.18);;
+}
